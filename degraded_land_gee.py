@@ -1,22 +1,3 @@
-"""
-=============================================================================
-AUTOMATED DEGRADED LAND IDENTIFICATION USING GOOGLE EARTH ENGINE
-=============================================================================
-
-FEATURES:
-    ✅ Fully automatic workflow
-    ✅ No QGIS required
-    ✅ No manual shapefiles
-    ✅ Sentinel-2 + Landsat 9
-    ✅ NDVI / BSI / SAVI / EVI / NDWI
-    ✅ Land Surface Temperature (LST)
-    ✅ Random Forest Classification
-    ✅ Automatic pseudo-label generation
-    ✅ Change Detection
-    ✅ Accuracy Assessment
-    ✅ GeoTIFF Export
-    ✅ Interactive Visualization
-
 INSTALL:
     pip install earthengine-api geemap matplotlib numpy pandas
 
