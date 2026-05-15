@@ -42,7 +42,7 @@ import matplotlib.pyplot as plt
 
 ee.Authenticate()
 
-ee.Initialize(project='ee-goluush25032004')
+ee.Initialize(project='shivansh-496013')
 
 print("✅ Google Earth Engine initialized.")
 
