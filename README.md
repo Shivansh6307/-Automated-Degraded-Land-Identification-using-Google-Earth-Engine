@@ -1,6 +1,9 @@
 # Degraded Land Analysis (Google Earth Engine)
 
 This repository contains scripts to identify and analyze degraded land using Google Earth Engine (GEE).
+## Demo
+<img width="3712" height="3715" alt="BSI_Visual tif jpg" src="https://github.com/user-attachments/assets/a90141c1-6f08-4473-93b0-24bda92d6a4f" />
+
 
 ## Project Files
 - `degraded_land_gee.py` — Main processing script that runs the GEE analysis.
